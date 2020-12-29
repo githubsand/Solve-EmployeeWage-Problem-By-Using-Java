@@ -1,6 +1,6 @@
 /**
  * author Sandeep_Singh
- * Function Check Employee is present or not
+ * Function Calculate Daily Wage of Employee
  *
  */
 public class DailyWage
